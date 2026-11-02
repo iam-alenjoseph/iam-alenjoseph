@@ -6,7 +6,7 @@
 NAME       : Alen Joseph
 PRONOUNS   : He / Him
 ROLE       : Full-Stack Developer
-PHILOSOPHY : Simple ideas. Thoughtful code. Useful experiences.
+Simple ideas. Thoughtful code. Useful experiences.
 ```
 
 I'm a full-stack developer who enjoys building for the web. 
