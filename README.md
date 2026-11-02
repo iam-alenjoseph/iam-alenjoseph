@@ -13,9 +13,9 @@ I'm a full-stack developer who enjoys building for the web.
 
 <div align="center">
 
-## 参 &mdash; 接続 / Find Me
+## Find Me
 
-<div align="center">
+<div align="left">
 
 | Place | Link |
 |:--:|:--:|
@@ -37,7 +37,5 @@ I'm a full-stack developer who enjoys building for the web.
                   THANK YOU FOR VISITING                  
          ========================================         
 ```
-
-一期一会 &nbsp;·&nbsp; ありがとう
 
 </div>
