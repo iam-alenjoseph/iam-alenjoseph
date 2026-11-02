@@ -1,0 +1,397 @@
+{
+  "generated": "2026-11-02T15:27:56+00:00",
+  "synthetic": false,
+  "user": {
+    "login": "iam-alenjoseph",
+    "public_repos": 23,
+    "followers": 1,
+    "following": 1,
+    "created_at": "2025-08-14T12:26:48Z"
+  },
+  "repos": [
+    {
+      "name": "pravaha2k26",
+      "description": "",
+      "language": "TypeScript",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-11-02T09:55:38Z",
+      "html_url": "https://github.com/iam-alenjoseph/pravaha2k26",
+      "archived": false,
+      "languages": {
+        "TypeScript": 94232,
+        "CSS": 61655,
+        "JavaScript": 44601,
+        "HTML": 1299
+      }
+    },
+    {
+      "name": "weddingcard",
+      "description": "",
+      "language": "JavaScript",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-10-04T18:03:16Z",
+      "html_url": "https://github.com/iam-alenjoseph/weddingcard",
+      "archived": false,
+      "languages": {
+        "JavaScript": 55192,
+        "CSS": 2453,
+        "HTML": 820
+      }
+    },
+    {
+      "name": "pharmacare",
+      "description": "pharmacy management system",
+      "language": "PHP",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-08-22T17:57:18Z",
+      "html_url": "https://github.com/iam-alenjoseph/pharmacare",
+      "archived": false,
+      "languages": {
+        "PHP": 54161,
+        "CSS": 5558,
+        "Hack": 1071
+      }
+    },
+    {
+      "name": "ATSbuilder",
+      "description": "",
+      "language": "HTML",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-08-05T16:14:57Z",
+      "html_url": "https://github.com/iam-alenjoseph/ATSbuilder",
+      "archived": false,
+      "languages": {
+        "HTML": 27589
+      }
+    },
+    {
+      "name": "AcadAI",
+      "description": "",
+      "language": "PHP",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-08-05T16:00:36Z",
+      "html_url": "https://github.com/iam-alenjoseph/AcadAI",
+      "archived": false,
+      "languages": {
+        "PHP": 371004,
+        "CSS": 44156,
+        "JavaScript": 7625,
+        "HTML": 5053
+      }
+    },
+    {
+      "name": "collabIDE",
+      "description": "",
+      "language": "TypeScript",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-08-05T15:52:30Z",
+      "html_url": "https://github.com/iam-alenjoseph/collabIDE",
+      "archived": false,
+      "languages": {
+        "TypeScript": 62644,
+        "JavaScript": 11722,
+        "CSS": 4414,
+        "HTML": 1426
+      }
+    },
+    {
+      "name": "mobiledetect",
+      "description": "",
+      "language": "Python",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-08-05T15:47:39Z",
+      "html_url": "https://github.com/iam-alenjoseph/mobiledetect",
+      "archived": false,
+      "languages": {
+        "Python": 26606,
+        "JavaScript": 21212,
+        "CSS": 20334,
+        "HTML": 15381
+      }
+    },
+    {
+      "name": "club",
+      "description": "",
+      "language": "JavaScript",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-08-01T09:23:07Z",
+      "html_url": "https://github.com/iam-alenjoseph/club",
+      "archived": false,
+      "languages": {
+        "JavaScript": 45298,
+        "CSS": 28033,
+        "HTML": 24799
+      }
+    },
+    {
+      "name": "Alen-Joseph-s-Portfolio",
+      "description": "Personal Portfolio Website !",
+      "language": "TypeScript",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-07-17T17:09:56Z",
+      "html_url": "https://github.com/iam-alenjoseph/Alen-Joseph-s-Portfolio",
+      "archived": false,
+      "languages": {
+        "TypeScript": 406797,
+        "CSS": 5688,
+        "HTML": 2128,
+        "JavaScript": 846
+      }
+    },
+    {
+      "name": "streamix1",
+      "description": "project",
+      "language": "JavaScript",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-07-17T16:35:53Z",
+      "html_url": "https://github.com/iam-alenjoseph/streamix1",
+      "archived": false,
+      "languages": {
+        "JavaScript": 159779,
+        "CSS": 7557,
+        "Shell": 2666,
+        "HTML": 1273
+      }
+    },
+    {
+      "name": "e-commerce",
+      "description": "CrazeKart E-Commerce Platform",
+      "language": "TypeScript",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-07-12T16:01:35Z",
+      "html_url": "https://github.com/iam-alenjoseph/e-commerce",
+      "archived": false,
+      "languages": {
+        "TypeScript": 38885,
+        "CSS": 33580,
+        "JavaScript": 465
+      }
+    },
+    {
+      "name": "shopiee",
+      "description": "",
+      "language": "TypeScript",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-07-12T15:52:34Z",
+      "html_url": "https://github.com/iam-alenjoseph/shopiee",
+      "archived": false,
+      "languages": {
+        "TypeScript": 38885,
+        "CSS": 33580,
+        "JavaScript": 465
+      }
+    },
+    {
+      "name": "alenportfolio",
+      "description": "",
+      "language": "TypeScript",
+      "stargazers_count": 0,
+      "forks_count": 1,
+      "pushed_at": "2026-07-11T04:28:54Z",
+      "html_url": "https://github.com/iam-alenjoseph/alenportfolio",
+      "archived": false,
+      "languages": {
+        "TypeScript": 395179,
+        "CSS": 5688,
+        "HTML": 2128,
+        "JavaScript": 846
+      }
+    },
+    {
+      "name": "portfolio",
+      "description": "my portfolio web",
+      "language": "TypeScript",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-07-11T03:20:27Z",
+      "html_url": "https://github.com/iam-alenjoseph/portfolio",
+      "archived": false,
+      "languages": {
+        "TypeScript": 395189,
+        "CSS": 5688,
+        "HTML": 2128,
+        "JavaScript": 846
+      }
+    },
+    {
+      "name": "weather",
+      "description": "project with api",
+      "language": "JavaScript",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-06-06T07:12:04Z",
+      "html_url": "https://github.com/iam-alenjoseph/weather",
+      "archived": false,
+      "languages": {
+        "JavaScript": 69744,
+        "CSS": 4487,
+        "HTML": 664
+      }
+    },
+    {
+      "name": "STREAMIX",
+      "description": "PROJECT",
+      "language": "JavaScript",
+      "stargazers_count": 1,
+      "forks_count": 0,
+      "pushed_at": "2026-06-06T03:10:15Z",
+      "html_url": "https://github.com/iam-alenjoseph/STREAMIX",
+      "archived": false,
+      "languages": {
+        "JavaScript": 121950,
+        "PHP": 26298,
+        "CSS": 7381,
+        "Shell": 2666,
+        "HTML": 1273
+      }
+    },
+    {
+      "name": "streamflix",
+      "description": "internship",
+      "language": null,
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-06-05T19:23:03Z",
+      "html_url": "https://github.com/iam-alenjoseph/streamflix",
+      "archived": false,
+      "languages": {}
+    },
+    {
+      "name": "portfolio-web",
+      "description": "welcome to my portfolio web",
+      "language": null,
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-05-10T12:23:22Z",
+      "html_url": "https://github.com/iam-alenjoseph/portfolio-web",
+      "archived": false,
+      "languages": {}
+    },
+    {
+      "name": "alenjoseph005",
+      "description": "",
+      "language": null,
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-05-09T10:54:20Z",
+      "html_url": "https://github.com/iam-alenjoseph/alenjoseph005",
+      "archived": false,
+      "languages": {}
+    },
+    {
+      "name": "Modern-cv-builder",
+      "description": "A modern,application that allows users to create professional resumes in real-time. The tool features:  - \ud83d\udcdd Live preview as you type - \ud83d\udcf8 Profile photo upload capability - \u270f\ufe0f Editable section titles - \ud83d\udce5 Multiple export options (PDF, DOCX, TXT) - \ud83c\udfa8 Clean, responsive design with gradient background - \ud83d\udcbb Mobile-friendly interface",
+      "language": "HTML",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2025-08-15T12:55:17Z",
+      "html_url": "https://github.com/iam-alenjoseph/Modern-cv-builder",
+      "archived": false,
+      "languages": {
+        "HTML": 24696
+      }
+    },
+    {
+      "name": "BIODATA-MAKER",
+      "description": "Can create biodata in seconds",
+      "language": "HTML",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2025-08-14T13:02:17Z",
+      "html_url": "https://github.com/iam-alenjoseph/BIODATA-MAKER",
+      "archived": false,
+      "languages": {
+        "HTML": 6212
+      }
+    }
+  ],
+  "events": [
+    {
+      "type": "PushEvent",
+      "repo": "iam-alenjoseph/weddingcard",
+      "created_at": "2026-10-04T18:03:16Z"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "iam-alenjoseph/weddingcard",
+      "created_at": "2026-10-04T16:26:24Z"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "iam-alenjoseph/weddingcard",
+      "created_at": "2026-10-04T17:29:13Z"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "iam-alenjoseph/weddingcard",
+      "created_at": "2026-10-04T16:26:13Z"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "iam-alenjoseph/weddingcard",
+      "created_at": "2026-10-04T17:56:13Z"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "iam-alenjoseph/weddingcard",
+      "created_at": "2026-10-04T18:02:14Z"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "iam-alenjoseph/weddingcard",
+      "created_at": "2026-10-04T17:39:48Z"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "iam-alenjoseph/weddingcard",
+      "created_at": "2026-10-04T17:38:20Z"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "iam-alenjoseph/weddingcard",
+      "created_at": "2026-10-04T17:27:14Z"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "iam-alenjoseph/weddingcard",
+      "created_at": "2026-10-04T16:56:14Z"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "iam-alenjoseph/weddingcard",
+      "created_at": "2026-10-04T16:56:04Z"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "iam-alenjoseph/weddingcard",
+      "created_at": "2026-10-04T16:32:25Z"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "iam-alenjoseph/weddingcard",
+      "created_at": "2026-10-04T16:32:14Z"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "iam-alenjoseph/weddingcard",
+      "created_at": "2026-10-04T15:13:23Z"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "iam-alenjoseph/weddingcard",
+      "created_at": "2026-10-04T15:10:33Z"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "username": "iam-alenjoseph",
+  "display_name": "Alen Joseph",
+  "role": "Full-Stack Developer",
+  "tagline": "Simple ideas. Thoughtful code. Useful experiences.",
+  "exclude_repos": [
+    "iam-alenjoseph"
+  ],
+  "pinned": [
+    {
+      "repo": "pharmacare",
+      "description": "Pharmacy management system"
+    },
+    {
+      "repo": "portfolio",
+      "description": "Personal portfolio website"
+    },
+    {
+      "repo": "weather",
+      "description": "Weather application built around an external API"
+    },
+    {
+      "repo": "streamix1",
+      "description": ""
+    },
+    {
+      "repo": "club",
+      "description": ""
+    },
+    {
+      "repo": "mobiledetect",
+      "description": ""
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="162" viewBox="0 0 840 162" role="img" aria-label="Languages by code volume">
+  <title>Languages by code volume</title>
+  <defs><clipPath id="bar"><rect x="24" y="52" width="792" height="12" rx="6"/></clipPath></defs>
+  <rect x="0.5" y="0.5" width="839" height="161" rx="12" fill="#151b23" stroke="#30363d"/>
+  <text x="24" y="34" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#f0f6fc">Languages</text>
+  <text x="816" y="34" text-anchor="end" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#9198a1">by code volume across 21 repositories</text>
+  <g clip-path="url(#bar)">
+    <rect x="24.00" y="52" width="398.73" height="12" fill="#3178c6"/>
+    <rect x="422.73" y="52" width="150.54" height="12" fill="#f1e05a"/>
+    <rect x="573.28" y="52" width="125.72" height="12" fill="#4F5D95"/>
+    <rect x="699.00" y="52" width="75.26" height="12" fill="#663399"/>
+    <rect x="774.26" y="52" width="32.55" height="12" fill="#e34c26"/>
+    <rect x="806.81" y="52" width="7.41" height="12" fill="#3572A5"/>
+    <rect x="814.22" y="52" width="2.00" height="12" fill="#89e051"/>
+    <rect x="815.70" y="52" width="2.00" height="12" fill="#ce5a58"/>
+  </g>
+  <circle cx="29" cy="94" r="5" fill="#3178c6"/>
+  <text x="42" y="98" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#f0f6fc">TypeScript</text>
+  <text x="200" y="98" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#9198a1">50.3%</text>
+  <circle cx="227" cy="94" r="5" fill="#f1e05a"/>
+  <text x="240" y="98" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#f0f6fc">JavaScript</text>
+  <text x="398" y="98" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#9198a1">19.0%</text>
+  <circle cx="425" cy="94" r="5" fill="#4F5D95"/>
+  <text x="438" y="98" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#f0f6fc">PHP</text>
+  <text x="596" y="98" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#9198a1">15.9%</text>
+  <circle cx="623" cy="94" r="5" fill="#663399"/>
+  <text x="636" y="98" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#f0f6fc">CSS</text>
+  <text x="794" y="98" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#9198a1">9.5%</text>
+  <circle cx="29" cy="122" r="5" fill="#e34c26"/>
+  <text x="42" y="126" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#f0f6fc">HTML</text>
+  <text x="200" y="126" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#9198a1">4.1%</text>
+  <circle cx="227" cy="122" r="5" fill="#3572A5"/>
+  <text x="240" y="126" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#f0f6fc">Python</text>
+  <text x="398" y="126" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#9198a1">0.9%</text>
+  <circle cx="425" cy="122" r="5" fill="#89e051"/>
+  <text x="438" y="126" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#f0f6fc">Shell</text>
+  <text x="596" y="126" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#9198a1">0.2%</text>
+  <circle cx="623" cy="122" r="5" fill="#ce5a58"/>
+  <text x="636" y="126" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#f0f6fc">Hack</text>
+  <text x="794" y="126" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#9198a1">0.0%</text>
+</svg>
