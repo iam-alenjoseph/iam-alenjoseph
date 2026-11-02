@@ -11,7 +11,7 @@ Simple ideas. Thoughtful code. Useful experiences.
 
 I'm a full-stack developer who enjoys building for the web. 
 
-<div align="center">
+<div align="left">
 
 ## Find Me
 
@@ -27,7 +27,7 @@ I'm a full-stack developer who enjoys building for the web.
 
 ---
 
-<div align="center">
+<div align="left">
 
 ```text
                                            
