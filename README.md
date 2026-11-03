@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="IDCARD.png" alt="Alen Joseph - ID Card" width="340" />
+  <img src="IDCARD_full.png" alt="Alen Joseph - ID Card" width="290" />
 </div>
