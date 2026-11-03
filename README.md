@@ -15,10 +15,10 @@
 
 <br/>
 
-[**Explore Portfolio ↗**](https://iam-alenjoseph.github.io/Alen-Joseph-s-Portfolio/) &nbsp;·&nbsp; [**LinkedIn ↗**](https://linkedin.com/in/alen-joseph-a96b2537b) &nbsp;·&nbsp; [**Email ↗**](mailto:alenjoseph4115@gmail.com)
+[**Explore Portfolio **](https://iam-alenjoseph.github.io/Alen-Joseph-s-Portfolio/) &nbsp;·&nbsp; [**LinkedIn **](https://linkedin.com/in/alen-joseph-a96b2537b) &nbsp;·&nbsp; [**Email **](mailto:alenjoseph4115@gmail.com)
 
 <br/><br/>
 
-<sub>一期一会 • <i>Every connection is a once-in-a-lifetime moment.</i></sub>
+<i>Every connection is a once-in-a-lifetime moment.</i></sub>
 
 </div>
