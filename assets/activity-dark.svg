@@ -94,6 +94,7 @@
   <text x="308" y="54" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#9198a1">Nov</text>
   <rect x="308" y="62" width="18" height="18" rx="4" fill="#1b222c" opacity="1"/>
   <rect x="308" y="84" width="18" height="18" rx="4" fill="#1b222c" opacity="1"/>
+  <rect x="308" y="106" width="18" height="18" rx="4" fill="#1b222c" opacity="1"/>
   <text x="36" y="97" text-anchor="end" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" fill="#9198a1">Mon</text>
   <text x="36" y="141" text-anchor="end" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" fill="#9198a1">Wed</text>
   <text x="36" y="185" text-anchor="end" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" fill="#9198a1">Fri</text>
