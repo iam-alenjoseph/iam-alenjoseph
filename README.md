@@ -15,7 +15,7 @@
 
 <br/>
 
-[Explore Portfolio ](https://iam-alenjoseph.github.io/Alen-Joseph-s-Portfolio/) &nbsp;·&nbsp; [LinkedIn ](https://linkedin.com/in/alen-joseph-a96b2537b) &nbsp;·&nbsp; [Email ](mailto:alenjoseph4115@gmail.com)
+[Portfolio ](https://iam-alenjoseph.github.io/Alen-Joseph-s-Portfolio/) &nbsp;·&nbsp; [LinkedIn ](https://linkedin.com/in/alen-joseph-a96b2537b) &nbsp;·&nbsp; [Email ](mailto:alenjoseph4115@gmail.com)
 
 <br/><br/>
 
